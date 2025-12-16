@@ -14,11 +14,9 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+Welcome, I’m Andrew Kabuswe, a Data Analyst. I hold a Bachelor of Science in Mathematics and Statistics. My journey has been shaped by a passion for turning data into actionable insights, solving problems creatively, and using technology to drive informed decision-making.
+I am a proud YALI Alumni and have received advanced Leadership training from McKinsey & Company, experiences that have strengthened my ability to lead with vision and inspire collaboration across diverse teams. 
+Beyond my technical and leadership experience, I am deeply passionate about empowering communities. I bring a unique blend of skills in data analysis, project management, and visual communication, making me well-positioned to contribute to organizations and initiatives that value innovation, impact and growth.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
